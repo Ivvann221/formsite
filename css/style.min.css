@@ -12251,19 +12251,19 @@ p {
     width: 100%;
     order: 1;
     align-items: center;
+    padding: 40px 30px
 }
 
 @media screen and (max-width:576px) {
     .hero__item {
         width: 100% !important;
         order: 2;
-        padding: 40px 30px
+       
     }
 }
 
 .hero__img {
     width: 0% !important;
-    height: 500px;
     background-image: url(img/05.Jun.2019-pejzazh-dorogi-v-gorah-4k.jpg);
     background-repeat: no-repeat;
     background-size: cover;
